@@ -1,5 +1,11 @@
 # Portage — meter- and sovereignty-aware agent control plane
 
+
+<!-- educloud-status-badges:start -->
+[![License](https://img.shields.io/github/license/EduCloud-Ecosystem/portage-CR)](https://github.com/EduCloud-Ecosystem/portage-CR/blob/main/LICENSING.md)
+[![Open issues](https://img.shields.io/github/issues/EduCloud-Ecosystem/portage-CR)](https://github.com/EduCloud-Ecosystem/portage-CR/issues)
+<!-- educloud-status-badges:end -->
+
 *(the EduCloud inference plane; prior working name "Commons" — see the
 umbrella's `SYSTEM.md` §1 for the name register)*
 
